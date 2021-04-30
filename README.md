@@ -1,4 +1,9 @@
 # work_examples
 
-## event embedding and predictions
-Personal projects and a few work examples
+## event and Sequence embeddings for customer Journey and predictions
+
+## Misc: a few PPT presentations from Anlytics wordk
+
+
+
+
