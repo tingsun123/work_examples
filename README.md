@@ -1,4 +1,4 @@
-# This is some of Ting's work examples
+# Ting's work examples
 
 ### event and Sequence embeddings for customer Journey and predictions
 
