@@ -4,7 +4,7 @@
 
 ### Root cause analysis code modules. 
 
-### Misc: a few PPT presentations from Anlytics
+### Misc: a few PPT presentations
 
 
 
